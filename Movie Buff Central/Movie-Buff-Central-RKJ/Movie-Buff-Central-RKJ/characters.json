@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Tony Stark (Iron Man)",
+        "image": "images/ironman.jpeg",
+        "description": "Tony Stark is a genius inventor and the CEO of Stark Industries. After being kidnapped, he builds the Iron Man suit to escape and becomes a superhero.",
+        "fact": "Tony Stark's AI assistant, JARVIS, later becomes Vision."
+    },
+    {
+        "name": "Steve Rogers (Captain America)",
+        "image": "images/captainamerica.jpeg",
+        "description": "Steve Rogers is a World War II veteran who was enhanced to the peak of human potential by an experimental serum. He wields a virtually indestructible shield.",
+        "fact": "Captain America's shield is made of Vibranium."
+    },
+    {
+        "name": "Thor",
+        "image": "images/thor.jpeg",
+        "description": "Thor is the Norse God of Thunder from Asgard. He wields the enchanted hammer Mjolnir, which grants him the ability to fly and manipulate weather.",
+        "fact": "Thor's hammer, Mjolnir, can only be lifted by those deemed worthy."
+    },
+    {
+        "name": "Natasha Romanoff (Black Widow)",
+        "image": "images/blackwidow.webp",
+        "description": "Natasha Romanoff is a highly trained spy and former KGB assassin who becomes a key member of the Avengers.",
+        "fact": "Black Widow has no superhuman powers but is an expert in martial arts and espionage."
+    },
+    {
+        "name": "Bruce Banner (Hulk)",
+        "image": "images/Hulk.jpg",
+        "description": "Bruce Banner is a scientist who transforms into the Hulk, a giant green-skinned being with immense strength, when he is angered or stressed.",
+        "fact": "The Hulk's strength increases proportionally with his anger."
+    },
+    {
+        "name": "Clint Barton (Hawkeye)",
+        "image": "images/hawkeys.jpg",
+        "description": "Clint Barton is a master archer and a member of the Avengers. He is known for his exceptional marksmanship and tactical skills.",
+        "fact": "Hawkeye uses a specialized bow with various trick arrows."
+    },
+    {
+        "name": "Peter Parker (Spider-Man)",
+        "image": "images/spiderman.jpg",
+        "description": "Peter Parker is a young superhero with spider-like abilities, including wall-crawling, super strength, and spider-sense.",
+        "fact": "Spider-Man's web-shooters are custom-built devices that allow him to shoot webs on command."
+    },
+    {
+        "name": "T'Challa (Black Panther)",
+        "image": "images/blackpanther.jpg",
+        "description": "T'Challa is the king of Wakanda, a technologically advanced African nation. He wields the Vibranium suit and possesses enhanced abilities.",
+        "fact": "Black Panther's suit absorbs and redistributes kinetic energy."
+    },
+    {
+        "name": "Scott Lang (Ant-Man)",
+        "image": "images/antman.jpg",
+        "description": "Scott Lang is a former thief who becomes Ant-Man, a superhero capable of shrinking to the size of an ant while retaining his strength.",
+        "fact": "Ant-Man can communicate with and control ants."
+    },
+    {
+        "name": "Carol Danvers (Captain Marvel)",
+        "image": "images/captainmarvel.jpg",
+        "description": "Carol Danvers is a former Air Force pilot who gains superhuman strength, flight, and energy projection after being exposed to alien technology.",
+        "fact": "Captain Marvel is one of the most powerful heroes in the MCU."
+    },
+    {
+        "name": "Stephen Strange (Doctor Strange)",
+        "image": "images/docterstrange.jpg",
+        "description": "Stephen Strange is a former neurosurgeon who becomes the Sorcerer Supreme, protecting the Earth from mystical threats.",
+        "fact": "Doctor Strange wields the Eye of Agamotto, which houses the Time Stone."
+    },
+    {
+        "name": "Peter Quill (Star-Lord)",
+        "image": "images/star-lord.jpg",
+        "description": "Peter Quill is the leader of the Guardians of the Galaxy. He is a skilled pilot and uses advanced technology in his missions.",
+        "fact": "Star-Lord's helmet was stolen from Yondu Udonta."
+    },
+    {
+        "name": "Gamora",
+        "image": "images/gamora.jpg",
+        "description": "Gamora is the last of her species and a formidable warrior. She is a member of the Guardians of the Galaxy.",
+        "fact": "Gamora is known as the 'deadliest woman in the universe.'"
+    },
+    {
+        "name": "Drax the Destroyer",
+        "image": "images/drax.jpg",
+        "description": "Drax is a warrior driven by revenge against Thanos for the destruction of his family.",
+        "fact": "Drax has immense physical strength and resilience."
+    },
+    {
+        "name": "Rocket Raccoon",
+        "image": "images/rocket.jpg",
+        "description": "Rocket is a genetically modified raccoon with a penchant for weapons and technology. He is a key member of the Guardians of the Galaxy.",
+        "fact": "Rocket is highly skilled in mechanics and engineering."
+    },
+    {
+        "name": "Groot",
+        "image": "images/groot.jpg",
+        "description": "Groot is a tree-like alien with regenerative abilities. He can only say the phrase 'I am Groot,' which has various meanings.",
+        "fact": "Groot's appearance can regenerate from almost any damage."
+    },
+    {
+        "name": "Nick Fury",
+        "image": "images/nickfury.jpg",
+        "description": "Nick Fury is the director of S.H.I.E.L.D. and plays a pivotal role in assembling the Avengers.",
+        "fact": "Nick Fury's eye patch contains advanced technology."
+    },
+    {
+        "name": "Wanda Maximoff (Scarlet Witch)",
+        "image": "images/scarletwitch.webp",
+        "description": "Wanda Maximoff possesses powerful reality-warping abilities and is a key member of the Avengers.",
+        "fact": "Scarlet Witch's powers are enhanced by the Mind Stone."
+    },
+    {
+        "name": "Vision",
+        "image": "images/vision.jpg",
+        "description": "Vision is an android created with the Mind Stone, possessing superhuman abilities and a strong moral compass.",
+        "fact": "Vision can manipulate his density, allowing him to phase through objects or become incredibly dense."
+    },
+    {
+        "name": "Bucky Barnes (Winter Soldier)",
+        "image": "images/bucky.jpg",
+        "description": "Bucky Barnes is Steve Rogers' childhood friend who becomes the brainwashed assassin Winter Soldier.",
+        "fact": "Winter Soldier has a cybernetic arm that enhances his combat abilities."
+    },
+    {
+        "name": "Sam Wilson (Falcon)",
+        "image": "images/falcon.jpg",
+        "description": "Sam Wilson is a former pararescueman who uses a specialized winged suit to fly and fight as Falcon.",
+        "fact": "Falcon's wings are equipped with drones that assist in combat."
+    },
+    {
+        "name": "James Rhodes (War Machine)",
+        "image": "images/warmachine.jpg",
+        "description": "James Rhodes is a close friend of Tony Stark and dons the War Machine armor to fight alongside the Avengers.",
+        "fact": "War Machine's armor is heavily armed with advanced weaponry."
+    },
+    {
+        "name": "Hope van Dyne (Wasp)",
+        "image": "images/wasp.jpg",
+        "description": "Hope van Dyne is a scientist and superhero who uses the Wasp suit to shrink and fly, possessing enhanced strength and agility.",
+        "fact": "Wasp can communicate with and control insects."
+    }
+    
+]
